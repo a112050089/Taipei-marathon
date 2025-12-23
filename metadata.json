@@ -1,0 +1,7 @@
+{
+  "name": "2025 Taipei Marathon Landing Page",
+  "description": "A high-end, responsive single-page application for the 2025 Taipei Marathon, featuring a Gold Label design, live weather integration, countdown timer, and interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
